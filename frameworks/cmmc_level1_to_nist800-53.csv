@@ -1,0 +1,18 @@
+CMMC Practice ID,Description,NIST SP 800-53 Controls
+AC.L1-3.1.1,Authorized Access Control,"AC-2, AC-6, AC-17, AC-20"
+AC.L1-3.1.2,Transaction & Functional Control,"AC-3, AC-6"
+AC.L1-3.1.20,External Connections,"AC-20, SC-7"
+AC.L1-3.1.22,Control Public Info,AC-22
+IA.L1-3.5.1,Identification,IA-2
+IA.L1-3.5.2,Authentication,IA-5
+MP.L1-3.8.3,Media Disposal,"MP-6, MP-7"
+PE.L1-3.10.1,Limit Physical Access,"PE-3, PE-4"
+PE.L1-3.10.3,Escort Visitors,PE-8
+PE.L1-3.10.4,Physical Access Logs,"PE-6, AU-2"
+PE.L1-3.10.5,Manage Access Devices,"PE-2, PE-5"
+SC.L1-3.13.1,Boundary Protection,"SC-7, SC-8"
+SC.L1-3.13.5,Public-Access Separation,"SC-3, SC-7"
+SI.L1-3.14.1,Flaw Remediation,SI-2
+SI.L1-3.14.2,Malicious Code Protection,SI-3
+SI.L1-3.14.4,Update Anti-Malware,SI-3
+SI.L1-3.14.5,System/File Scanning,"SI-4, SI-3"
